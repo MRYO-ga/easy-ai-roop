@@ -5,8 +5,8 @@ output_image_format: png
 output_video_codec: libx264
 output_video_format: mp4
 provider: cuda
-selected_theme: Default
-server_name: ''
+selected_theme: gradio/soft
+server_name: '0.0.0.0'
 server_port: 0
-server_share: true
+server_share: false
 video_quality: 14
